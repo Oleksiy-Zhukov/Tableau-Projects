@@ -4,6 +4,9 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 # Project List
 
 * [Netflix](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Netflix) - A dashboard analyzing Netflix's movie and TV show data.
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/14ef6556-1f26-44fb-bbe5-7d0927be661e">
+
+* 
 * 
 
 # About Tableau
