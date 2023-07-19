@@ -1,16 +1,19 @@
 link to tableau public : https://public.tableau.com/views/NetflixData_16737501303220/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/14ef6556-1f26-44fb-bbe5-7d0927be661e">
+
 
 
 # Netflix Data Dashboard
 Welcome to the Netflix Data Dashboard repository! This project contains a Tableau dashboard that analyzes Netflix's movie and TV show data.
 
 # About the Dashboard
-The Netflix dashboard provides an interactive visualization of various aspects of the Netflix content library. It allows users to explore trends, genres, release years, and more, providing valuable insights into the vast collection of movies and TV shows available on the platform.
+The Netflix dashboard provides an interactive visualization of various aspects of the Netflix content library.
 
 # Preview
-Insert an image or GIF of your dashboard here
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/14ef6556-1f26-44fb-bbe5-7d0927be661e">
+
+# Kaggle Data Processing Notebook
+Before creating the Tableau dashboard, the data was processed and prepared using a Kaggle notebook. You can check out the data processing steps and analysis here: Link to [Kaggle Notebook](https://www.kaggle.com/code/zhukovoleksiy/netflix-dataset-cleaning-dashboard)
 
 # How to Use
 To access and interact with the Netflix Data Dashboard:
