@@ -12,6 +12,9 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 # About Tableau
 [Tableau](https://www.tableau.com/) is a powerful data visualization tool that allows users to create interactive and insightful dashboards from various data sources. It provides an intuitive drag-and-drop interface, enabling users to explore and analyze data visually.
 
+# Tableau Public Profile
+Explore more of my Tableau visualizations on my [Tableau Public profile](https://public.tableau.com/app/profile/oleksii3134)
+
 # How to Use
 Each project is stored in its own sub-repository. You can navigate to a specific project by clicking on the corresponding link above.
 
