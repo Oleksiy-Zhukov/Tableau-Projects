@@ -19,7 +19,7 @@ To access the Tableau dashboards, follow the steps below:
 
 Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/Tableau-Projects.git
+git clone https://github.com/oleksiy-zhukov/Tableau-Projects.git
 ```
 Navigate to the desired project folder:
 
