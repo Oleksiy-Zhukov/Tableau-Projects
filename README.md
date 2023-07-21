@@ -6,8 +6,14 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 * [Netflix](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Netflix) - A dashboard analyzing Netflix's movie and TV show data.
 <img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/14ef6556-1f26-44fb-bbe5-7d0927be661e">
 
-* 
-* 
+* [Mental Disorders](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Mental-Disorders)
+<img scr="">  
+
+* [Fifa Players](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Fifa-Players)
+<img scr="">  
+
+* [Chicago-Filming](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Chicago-Filming)
+<img scr="">
 
 # About Tableau
 [Tableau](https://www.tableau.com/) is a powerful data visualization tool that allows users to create interactive and insightful dashboards from various data sources. It provides an intuitive drag-and-drop interface, enabling users to explore and analyze data visually.
