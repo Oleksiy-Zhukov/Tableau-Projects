@@ -2,10 +2,10 @@
 Welcome to the Mental Disorders Data Dashboard repository! This project contains a Tableau dashboard that explores data related to mental health disorders.
 
 # About the Dashboard
-The Mental Disorders dashboard provides an interactive visualization of various mental health disorders, their prevalence, and related factors. It aims to raise awareness about mental health and present data-driven insights to better understand the challenges faced by individuals with mental health conditions.
+The Mental Disorders dashboard provides an interactive visualization of various mental health disorders in map format. It aims to raise awareness about mental health and present data-driven insights to better understand the challenges faced by individuals with mental health conditions.
 
 # Preview
-Insert an image or GIF of your dashboard here
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/38215cd0-7b53-4e99-b1c6-0070f251e5d1">
 
 # Data Sources
 The data used for this dashboard is sourced from [insert data source link here]. Please refer to the data source for more information about the dataset.
