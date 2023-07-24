@@ -2,11 +2,10 @@
 Welcome to the Fifa Players Dashboard repository! This project contains a Tableau [dashboard](https://public.tableau.com/shared/S9Y78ZNF7?:display_count=n&:origin=viz_share_link) that analyzes Netflix's movie and TV show data.
 
 ## About the Dashboard
-
+The Fifa Players dashboard provides an interactive visualization of various aspects of the football fifa players, their clubs and countries.
 
 ## Preview
 <img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/bcd7eac5-1e6b-43cb-84ea-883f4b27ae50">
-
 
 ## How to Use
 
