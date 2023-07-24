@@ -5,7 +5,7 @@ Welcome to the Fifa Players Dashboard repository! This project contains a Tablea
 
 
 ## Preview
-<img src="">
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/bcd7eac5-1e6b-43cb-84ea-883f4b27ae50">
 
 
 ## How to Use
