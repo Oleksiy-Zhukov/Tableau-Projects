@@ -5,7 +5,8 @@ Welcome to the Fifa Players Dashboard repository! This project contains a Tablea
 The Fifa Players dashboard provides an interactive visualization of various aspects of the football fifa players, their clubs and countries.
 
 ## Preview
-<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/bcd7eac5-1e6b-43cb-84ea-883f4b27ae50">
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/23fde2b9-2a4e-44f8-b72e-31654d0757be">
+
 
 ## How to Use
 
