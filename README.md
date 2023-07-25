@@ -12,7 +12,7 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 
 
 
-* [Fifa Players](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Fifa-Players)
+* [Fifa Players](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Fifa-Players) - The Fifa Players dashboard provides an interactive visualization of various aspects of the football fifa players, their clubs and countries.
 <img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/bcd7eac5-1e6b-43cb-84ea-883f4b27ae50">
 
 
