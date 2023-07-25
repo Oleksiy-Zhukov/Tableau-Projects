@@ -4,7 +4,8 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 # Project List
 
 * [Netflix](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Netflix) - A dashboard analyzing Netflix's movie and TV show data.
-<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/14ef6556-1f26-44fb-bbe5-7d0927be661e">
+
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/c63911b3-0519-4a62-bc89-d435a2eb152f">
 
 
 * [Mental Disorders](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Mental-Disorders) - A dashboard showing data related to mental health disorders in map format.
@@ -14,7 +15,8 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 
 
 * [Fifa Players](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Fifa-Players) - The Fifa Players dashboard provides an interactive visualization of various aspects of the football fifa players, their clubs and countries.
-<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/bcd7eac5-1e6b-43cb-84ea-883f4b27ae50">
+
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/23fde2b9-2a4e-44f8-b72e-31654d0757be">
 
 
 # About Tableau
