@@ -5,7 +5,7 @@ Welcome to the Netflix Data Dashboard repository! This project contains a Tablea
 The Netflix dashboard provides an interactive visualization of various aspects of the Netflix content library.
 
 ## Preview
-<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/14ef6556-1f26-44fb-bbe5-7d0927be661e">
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/c63911b3-0519-4a62-bc89-d435a2eb152f">
 
 ## Kaggle Data Processing Notebook
 Before creating the Tableau dashboard, the data was processed and prepared using a Kaggle notebook. You can check out the data processing steps and analysis here: Link to [Kaggle Notebook](https://www.kaggle.com/code/zhukovoleksiy/netflix-dataset-cleaning-dashboard)
