@@ -8,7 +8,8 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 
 
 * [Mental Disorders](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Mental-Disorders) - A dashboard showing data related to mental health disorders in map format.
-<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/38215cd0-7b53-4e99-b1c6-0070f251e5d1">
+
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/c6525bd7-d6b7-4398-8835-0fec41b458de">
 
 
 
