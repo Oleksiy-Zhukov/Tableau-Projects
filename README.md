@@ -13,11 +13,8 @@ Welcome to the Tableau-Projects repository! This repository is a collection of v
 
 
 * [Fifa Players](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Fifa-Players)
-<img src="">
+<img src="https://github.com/Oleksiy-Zhukov/Tableau-Projects/assets/75014961/bcd7eac5-1e6b-43cb-84ea-883f4b27ae50">
 
-
-* [Chicago-Filming](https://github.com/Oleksiy-Zhukov/Tableau-Projects/tree/main/Chicago-Filming)
-<img src="">
 
 # About Tableau
 [Tableau](https://www.tableau.com/) is a powerful data visualization tool that allows users to create interactive and insightful dashboards from various data sources. It provides an intuitive drag-and-drop interface, enabling users to explore and analyze data visually.
